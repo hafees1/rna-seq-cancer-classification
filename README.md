@@ -10,9 +10,20 @@ The project demonstrates a complete supervised machine learning workflow, includ
 
 ## 📂 Dataset
 
-**Source:** Kaggle - RNA-Seq Cancer Classification Dataset
+**Source:** Kaggle - Gene Expression Cancer RNA-Seq Dataset  
+**Original Source:** UCI Machine Learning Repository – Gene Expression Cancer RNA-Seq Dataset
 
-The dataset contains RNA-Seq gene expression data collected from different cancer samples. Each sample consists of expression levels of thousands of genes along with the corresponding cancer type label.
+The dataset is a part of the RNA-Seq (HiSeq) PANCAN dataset and contains gene expression profiles from cancer samples.
+
+Each sample contains expression levels of 20,531 genes along with the corresponding cancer type label. The dataset includes samples from five different cancer types:
+
+- BRCA → Breast Cancer
+- KIRC → Kidney Renal Clear Cell Carcinoma
+- COAD → Colon Adenocarcinoma
+- LUAD → Lung Adenocarcinoma
+- PRAD → Prostate Adenocarcinoma
+
+The dataset is a high-dimensional classification dataset where machine learning models are used to identify patterns in gene expression data and classify samples into their respective cancer types.
 
 ### Target Variable
 

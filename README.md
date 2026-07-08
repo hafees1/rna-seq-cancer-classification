@@ -123,7 +123,7 @@ The performance of all models was compared to identify the most effective classi
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Future Improvements to be done
 
 - Perform hyperparameter tuning using `GridSearchCV` or `RandomizedSearchCV`.
 - Build reusable preprocessing pipelines using Scikit-learn `Pipeline`.
@@ -132,6 +132,4 @@ The performance of all models was compared to identify the most effective classi
 - Experiment with deep learning models for cancer classification.
 
 ---
-
-## 📌 Project Structure
 

@@ -13,7 +13,12 @@ The project demonstrates a complete supervised machine learning workflow, includ
 ## 📂 Dataset
 
 **Source:** Kaggle - Gene Expression Cancer RNA-Seq Dataset  
+
+https://www.kaggle.com/datasets/waalbannyantudre/gene-expression-cancer-rna-seq-donated-on-682016/data
+
 **Original Source:** UCI Machine Learning Repository – Gene Expression Cancer RNA-Seq Dataset
+
+https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
 
 The dataset is a part of the RNA-Seq (HiSeq) PANCAN dataset and contains gene expression profiles from cancer samples.
 

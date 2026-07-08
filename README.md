@@ -1,5 +1,7 @@
 # 🧬 RNA-Seq Cancer Classification using Machine Learning
 
+![Project Image](images/readme.png)
+
 ## 📌 Overview
 
 This project builds an end-to-end machine learning pipeline to classify different cancer types using RNA sequencing (RNA-Seq) gene expression data.
